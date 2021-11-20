@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1533284954 source:/home/railson/Área de Trabalho/set_get_bf/Aresta.cpp
+	"Aresta.h"
+
+1533284988 /home/railson/Área de Trabalho/set_get_bf/Aresta.h
+
+1533716804 source:/home/railson/Área de Trabalho/set_get_bf/Grafo.cpp
+	"Grafo.h"
+
+1533655816 /home/railson/Área de Trabalho/set_get_bf/Grafo.h
+	"Vertice.h"
+	"Aresta.h"
+
+1533279727 /home/railson/Área de Trabalho/set_get_bf/Vertice.h
+
+1533769409 source:/home/railson/Área de Trabalho/set_get_bf/main.cpp
+	<iostream>
+	"Matriz.h"
+
+1533717849 /home/railson/Área de Trabalho/set_get_bf/Matriz.h
+	"Grafo.h"
+	<fstream>
+
+1533587047 source:/home/railson/Área de Trabalho/set_get_bf/Vertice.cpp
+	"Vertice.h"
+
+1533816366 source:/home/railson/Área de Trabalho/set_get_bf/Matriz.cpp
+	"Matriz.h"
+	"Aresta.h"
+	<fstream>
+	<iostream>
+	<cfloat>
+
+1533284954 source:/home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalho_Grafo_BF_V3_Final/Aresta.cpp
+	"Aresta.h"
+
+1533284988 /home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalho_Grafo_BF_V3_Final/Aresta.h
+
+1533716804 source:/home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalho_Grafo_BF_V3_Final/Grafo.cpp
+	"Grafo.h"
+
+1533655816 /home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalho_Grafo_BF_V3_Final/Grafo.h
+	"Vertice.h"
+	"Aresta.h"
+
+1533279727 /home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalho_Grafo_BF_V3_Final/Vertice.h
+
+1533816366 source:/home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalho_Grafo_BF_V3_Final/Matriz.cpp
+	"Matriz.h"
+	"Aresta.h"
+	<fstream>
+	<iostream>
+	<cfloat>
+
+1533818928 /home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalho_Grafo_BF_V3_Final/Matriz.h
+	"Grafo.h"
+	<fstream>
+
+1533587047 source:/home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalho_Grafo_BF_V3_Final/Vertice.cpp
+	"Vertice.h"
+
+1533284954 source:/home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalhos/Trabalho_Grafo_BF_V3_Final/Aresta.cpp
+	"Aresta.h"
+
+1533284988 /home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalhos/Trabalho_Grafo_BF_V3_Final/Aresta.h
+
+1533716804 source:/home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalhos/Trabalho_Grafo_BF_V3_Final/Grafo.cpp
+	"Grafo.h"
+
+1533655816 /home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalhos/Trabalho_Grafo_BF_V3_Final/Grafo.h
+	"Vertice.h"
+	"Aresta.h"
+
+1533279727 /home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalhos/Trabalho_Grafo_BF_V3_Final/Vertice.h
+
+1535742908 source:/home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalhos/Trabalho_Grafo_BF_V3_Final/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Matriz.h"
+
+1533818928 /home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalhos/Trabalho_Grafo_BF_V3_Final/Matriz.h
+	"Grafo.h"
+	<fstream>
+
+1535742925 source:/home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalhos/Trabalho_Grafo_BF_V3_Final/Matriz.cpp
+	"Matriz.h"
+	"Aresta.h"
+	<fstream>
+	<iostream>
+	<cfloat>
+
+1533587047 source:/home/railson/MEGA/Faculdade/Eng_Comp/5_Periodo/TP/Trabalhos/Trabalho_Grafo_BF_V3_Final/Vertice.cpp
+	"Vertice.h"
+
+1533284954 source:d:\mega\cloud drive\faculdade\eng_comp\5_periodo\tp\trabalhos\trabalho_grafo_bf_v3_final\aresta.cpp
+	"Aresta.h"
+
+1533284988 d:\mega\cloud drive\faculdade\eng_comp\5_periodo\tp\trabalhos\trabalho_grafo_bf_v3_final\aresta.h
+
+1533716804 source:d:\mega\cloud drive\faculdade\eng_comp\5_periodo\tp\trabalhos\trabalho_grafo_bf_v3_final\grafo.cpp
+	"Grafo.h"
+
+1533655816 d:\mega\cloud drive\faculdade\eng_comp\5_periodo\tp\trabalhos\trabalho_grafo_bf_v3_final\grafo.h
+	"Vertice.h"
+	"Aresta.h"
+
+1533279727 d:\mega\cloud drive\faculdade\eng_comp\5_periodo\tp\trabalhos\trabalho_grafo_bf_v3_final\vertice.h
+
+1535742925 source:d:\mega\cloud drive\faculdade\eng_comp\5_periodo\tp\trabalhos\trabalho_grafo_bf_v3_final\matriz.cpp
+	"Matriz.h"
+	"Aresta.h"
+	<fstream>
+	<iostream>
+	<cfloat>
+
+1533818928 d:\mega\cloud drive\faculdade\eng_comp\5_periodo\tp\trabalhos\trabalho_grafo_bf_v3_final\matriz.h
+	"Grafo.h"
+	<fstream>
+
+1533587047 source:d:\mega\cloud drive\faculdade\eng_comp\5_periodo\tp\trabalhos\trabalho_grafo_bf_v3_final\vertice.cpp
+	"Vertice.h"
+
+1538917560 source:d:\mega\cloud drive\faculdade\eng_comp\5_periodo\tp\trabalhos\trabalho_grafo_bf_v3_final\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"Matriz.h"
+
