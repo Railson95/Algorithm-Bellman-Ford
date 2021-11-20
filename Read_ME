@@ -1,8 +1,0 @@
-Compilando linux várias classes
-comando
-g++ -c tipo_aluno.cpp
-g++ -std=c++11 main.cpp tipo_aluno.cpp -o meuPrograma
-usar ll para mostrar o que tem na pasta
-usar rm *.o para remover os .o
-usar rm *a.out para remover o arquivo selecionado
-criar um makefile
