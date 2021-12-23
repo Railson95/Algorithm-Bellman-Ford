@@ -1,4 +1,4 @@
-# AlgoritmoBellmanFord
+# AlgoritmoBellmanFord -A classe com o algoritmo é Matriz.cpp-
 
 Foi Usado POO em C++ para o desenvolvimento
 --
