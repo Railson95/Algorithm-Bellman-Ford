@@ -1,17 +1,18 @@
-# AlgoritmoBellmanFord -A classe com o algoritmo é Matriz.cpp-
+# BellmanFord Algorithm -The class with the algorithm is Array.cpp-
 
-Foi Usado POO em C++ para o desenvolvimento
+OOP in C++ was used for development
 --
 
-O Algoritmo de Bellman-Ford é um algoritmo de busca de caminho mínimo em um digrafo ponderado, ou seja, cujas arestas têm peso, inclusive negativo. O Algoritmo de Dijkstra resolve o mesmo problema, num tempo menor, porém exige que todas as arestas tenham pesos positivos.
+The Bellman-Ford Algorithm is a shortest path search algorithm in a weighted digraph, whose edges have weight, including negative weight. Dijkstra's Algorithm solves the same problem, in less time, but requires that all edges have positive weights.
 --
 
-O programa deverá ler os dados do grafo a partir de um arquivo texto, cujo nome será passado
-exclusivamente pela linha de comandos.
-• Todos os vértices são representados por números inteiros positivos, iniciando em 0.
-• O formato do arquivo: na primeira linha, o número de vértices
-do grafo; a segunda linha em diante será a especificação das ligações, no formato origem peso
-destino. O peso poderá conter casas decimais. Ex.:
+The program should read the graph data from a text file, whose name will be passed
+exclusively from the command line.
+• All vertices are represented by positive integers, starting at 0.
+
+• The file format: on the first line, the number of vertices
+of the graph; the second line onwards will be the specification of the connections, in the weight source format
+destiny. The weight may contain decimal places. Ex.:
 
 3
 
@@ -23,44 +24,44 @@ destino. O peso poderá conter casas decimais. Ex.:
 
 2 1 0
 
-• As ligações devem ser colocadas uma por linha, separando os valores apenas por espaços.
+• Links must be placed one per line, separating values ​​only by spaces.
 
-• É vedada a alteração, de qualquer natureza, do formato de arquivo proposto.
+• Changing, of any nature, the proposed file format is prohibited.
 
-• Se o problema exigir um grafo não direcionado, deve-se garantir que os dois sentidos das arestas
-sejam inseridos corretamente na representação do grafo.
+• If the problem requires an undirected graph, you must ensure that the two directions of the edges
+are inserted correctly in the graph representation.
 
-• Sempre que possível, utilizar estruturas de dados recomendadas no livro para a melhoria do
-desempenho do algoritmo.
+• Whenever possible, use data structures recommended in the book for the improvement of the
+algorithm performance.
 
-• É permitido o uso das classes STL (Standard Template Library) de C++ para as estruturas de
-dados auxiliares (listas, filas, conjuntos, etc.).
+• The use of STL classes (Standard Template Library) from C++ is allowed for the structures of
+auxiliary data (lists, queues, sets, etc.).
 
-• Se o problema tiver qualquer restrição em relação ao tipo de grafo aceito, esta restrição deverá
-ser verificada ao término da leitura do arquivo e o programa finalizará com uma mensagem de
-erro usando cerr em lugar do cout.
+• If the problem has any restriction regarding the type of graph accepted, this restriction must be
+checked at the end of reading the file and the program will end with a message
+error using cerr instead of cout.
 
-• Todos os parâmetros para o problema devem ser recebidos pela linha de comando. O programa
-não deverá solicitar nenhuma informação do usuário durante sua execução. Ex.:
+• All parameters for the problem must be received via the command line. The program
+should not request any information from the user during its execution. Ex.:
 
 ./dijkstra grafo.txt 5
 
-executará o algoritmo de Dijkstra, lendo a informação do grafo a partir do arquivo grafo.txt
-(conforme formato acima) e calculando os caminhos a partir do nó 5 (origem).
+will run Dijkstra's algorithm, reading the graph information from the grafo.txt file
+(according to the format above) and calculating the paths from node 5 (origin).
 
-• Cada algoritmo tem um formato de saída padronizado, apresentado na Seção 2.1, que deve ser
-rigorosamente respeitada, visando à correção automática parcial.
+• Each algorithm has a standardized output format, presented in Section 2.1, which must be
+rigorously respected, aiming at partial automatic correction.
 
-• Os programas serão compilados e executados em Linux, portanto, devem ser testados nessa
-plataforma antes do envio. Caso não compile nesta plataforma, será atribuída a nota zero.
+• Programs will be compiled and run on Linux, so they must be tested on that
+platform before shipping. If it does not compile on this platform, a score of zero will be assigned.
 
 
-Para execução deste programa usar a seguinte lógica.
+To run this program use the following logic.
 --
-g++ -c tipo_aluno.cpp
+g++ -c student_type.cpp
 
-g++ -std=c++11 main.cpp tipo_aluno.cpp -o meuPrograma
+g++ -std=c++11 main.cpp type_student.cpp -o myProgram
 
 
-Esse programa funciona apenas em Linux, trabalho para aprovação na disciplina de Técnicas de Programação.
+This program works only on Linux, work for approval in the subject of Programming Techniques.
 --
